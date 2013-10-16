@@ -1,1 +1,1 @@
-dwr3 sample
+DWR 3.0.0-rc3-SNAPSHOT Sample
