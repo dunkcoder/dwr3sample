@@ -1,2 +1,1 @@
-dwr3sample
-==========
+dwr3 sample
